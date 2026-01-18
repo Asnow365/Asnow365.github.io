@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Xue Mi / Site Title"
+title                    : "Xue Mi / CV"
 title_separator          : "-"
 name                     : &name "Xue Mi"
 description              : &description "PhD student at NCCA, Bournemouth University. Research in AI-driven urban modeling, spatial analysis, and multimodal urban data."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,37 +23,37 @@ repository               : "Asnow365/Asnow365.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "mx.png"
+  name             : "Xue Mi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "PhD student at the National Centre for Computer Animation.Former urban planner at the China Academy of Urban Planning & Design (CAUPD)."
+  location         : "China(currently)"
+  employer         : "National Centre for Computer Animation(NCCA)/CAUPD"
+  uri              : "https://www.caupd.com/en/index"
+  email            : "xmi@bournemouth.ac.uk" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  # arxiv            : # URL - Update with the correct link to your profile
+  # # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # # inspire-hep      : # URL
+  # # impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0003-4118-147X"
+  # semantic         : # URL
+  # ssrn             : # URL
+  # # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # # researchgate     : # URL
+  # # scopus           : # URL
+  # # zotero           : # URL
 
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  # # Repositories and software development
+  # bitbucket        : # Username - Update with your username on the site
+  # codepen          : # Username
+  # dribbble         : # Username
   github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  # kaggle           : # Username  
+  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
