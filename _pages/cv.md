@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: ""
 permalink: /cv/
 author_profile: true
@@ -52,7 +52,7 @@ Skills
 * Technical Skills
   * ArcGIS, Python, Pytorch
 
-AWARDS
+Awards
 ======
   * 2025, First Prize, Urban Planning and Design Award of Qingdao City, Shandong Province, China.
   * 2018: First Prize for "Opening the Door to Hangzhou 2035 - Hangzhou Urban Planning Concept Plan"
@@ -61,13 +61,13 @@ AWARDS
   * 2014: Gold Award in the Student Category of the 4th Aijiang Award International Landscape Planning andDesign Competition (Individual)
   * 2013: Excellent Award at the Tongji University Construction Festival
   
-LEADERSHIP EXPERIENCE AND ACTIVITIES
+Leadership Experience and Activities
 ======
   * 2017: "2013 Japan Architecture Newcomer Competition," Organizer
   * 2013: "2017 Urban Renewal Academic Seminar," Organizer
   * 2011-2015: Southeast University School of Architecture Student Union, Vice President of External Relations
 
-INTERNSHIP EXPERIENCE
+Research and Professional Activities
 ======
   * Jun 2018 – Sep 2018: China Academy of Urban Planning and Design, Regional Department
   * Dec 2017 – Jan 2018: Shenzhen Urban Planning and Design Institute, Planning Department II
