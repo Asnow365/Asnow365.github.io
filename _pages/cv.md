@@ -17,17 +17,17 @@ Urban Planner, China Academy of Urban Planning and Design, Beijing, 2019-2022
 
 Education
 -----
-#### Ph.D in Computer version, NCCA, UK 2024-2028 (expected)
+### Ph.D in Computer version, NCCA, UK 2024-2028 (expected)
 Field: Computer Version, 3D Generation
 
-#### M.S. in Urban Planning, Southeast University, 2016-2019
+### M.S. in Urban Planning, Southeast University, 2016-2019
 GPA: 3.83/4.0 
 
 Field: Regional Planning, Urban Regeneration.
 
 Exchange Program in Regional Economic Development, Vienna University of Technology, 2016-2017
 
-#### B.S. in Urban Planning, Southeast University, 2011-2016
+### B.S. in Urban Planning, Southeast University, 2011-2016
 GPA: 3.75/4.0 (Ranked 3rd)
 
 Honor: Postgraduate Recommendation, Major Scholarship
@@ -38,7 +38,7 @@ Coursework: Urban Sociology, Urban Economics, Urban Data Analysis (SPSS/GIS), Ur
 
 Publications
 -----
-#### Articles
+### Articles
 Xue Mi, Micheal Adjeisah et al., “POI-Conditioned Hybrid Latent Diffusion–GAN for Real-Time Land-Use Map Generation”, CAADRIA, 2026(accepted)
 
 Xue Mi, Micheal Adjeisah et al., ”A GIS-Oriented Land Use Map Generation Agent: A Hybrid Approach Integrating Diffusion Models and GANs”, AAAI2026, Workshop
@@ -51,7 +51,7 @@ Xue Mi,Zijing Li. "Primary Study on the Space and Temporal Difference of Regener
 
 Mi Xue,Jin Tanhua. "Exploration into Community Renewal Based on Multiple Composite RenewalMechanisms." Proceedings of the Chinese Urban Planning Conference. 2017.
 
-#### Books
+### Books
   * **Industrial Heritage Regeneration.**  
   In Shijie Sun (Ed.), *Evolution and Regeneration: Urban Renewal of Nanjing Old City since the Reform and Opening-up* (in Chinese).  
   Nanjing: Southeast University Press, 2021. ISBN: 978-7-5641-9292-1.
