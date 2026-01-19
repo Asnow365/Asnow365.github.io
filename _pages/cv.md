@@ -14,14 +14,14 @@ redirect_from:
   * Urban Planner, China Academy of Urban Planning and Design, Beijing, 2019-2022
 
 ## Education
-### Ph.D in Computer version, NCCA, UK 2024-2028 (expected)
+    Ph.D in Computer version, NCCA, UK 2024-2028 (expected)
   * Field: Deep Learning
-### M.S. in Urban Planning, Southeast University, 2016-2019
+    M.S. in Urban Planning, Southeast University, 2016-2019
   * GPA: 3.83/4.0 
   * Field: Regional Planning, Urban Regeneration.
-* M.S. in Urban Planning, Vienna University of Technology, 2016-2017
+  * M.S. in Urban Planning, Vienna University of Technology, 2016-2017
   * Exchange Program in Regional Economic Development
-### B.S. in Urban Planning, Southeast University, 2011-2016
+    B.S. in Urban Planning, Southeast University, 2011-2016
   * GPA: 3.75/4.0 (Ranked 3rd in the Class)
   * Honor: Postgraduate Recommendation, Major Scholarship
   * Coursework: Urban Sociology, Urban Economics, Urban Data Analysis (SPSS/GIS), Urban andRural Planning Design and Theory, etc.
