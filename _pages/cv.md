@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Work experience: CAUPD, Beijing
-### Project Manager, Senior Urban Planner, China Academy of Urban Planning and Design, Beijing, 2022-2025
-### Urban Planner, China Academy of Urban Planning and Design, Beijing, 2019-2022
+  * Project Manager, Senior Urban Planner, China Academy of Urban Planning and Design, Beijing, 2022-2025
+  * Urban Planner, China Academy of Urban Planning and Design, Beijing, 2019-2022
 
 ## Education
 ### Ph.D in Computer version, NCCA, UK 2024-2028 (expected)
@@ -40,6 +40,9 @@ redirect_from:
   * **Industrial Heritage Regeneration.**  
   In Shijie Sun (Ed.), *Evolution and Regeneration: Urban Renewal of Nanjing Old City since the Reform and Opening-up* (in Chinese).  
   Nanjing: Southeast University Press, 2021. ISBN: 978-7-5641-9292-1.
+  * **Regional Observation of the Yellow River Basin**
+  China Academy of Urban Planning and Design Think Tank Annual Report 2025 (in Chinese).China Architecture & Building Press，2025.ISBN 978-7-112-31431-7
+
 
 
 ## Skills
