@@ -41,15 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-/* ===============================
-   Global body text size override
-   =============================== */
-
-.page__content,
-.page__content p,
-.page__content li {
-  font-size: 0.9em !important;
-  line-height: 1.5 !important;
-}
-
