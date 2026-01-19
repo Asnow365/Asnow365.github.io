@@ -16,7 +16,7 @@ redirect_from:
 ## Education
 
 ### Ph.D in Computer version, NCCA, UK 2024-2028 (expected)
-  * Field: Deep Learning
+  * Field: Computer Version, 3D Generation
 
 ### M.S. in Urban Planning, Southeast University, 2016-2019
   * GPA: 3.83/4.0 
