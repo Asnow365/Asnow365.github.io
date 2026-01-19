@@ -10,12 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ## Work experience: CAUPD, Beijing
-======
 * Project Manager, Senior Urban Planner, China Academy of Urban Planning and Design, Beijing, 2022-2025
 * Urban Planner, China Academy of Urban Planning and Design, Beijing, 2019-2022
 
-Education
-======
+## Education
 * Ph.D in Computer version, NCCA, UK 2024-2028 (expected)
   * Field: Deep Learning
 * M.S. in Urban Planning, Southeast University, 2016-2019
@@ -30,8 +28,7 @@ Education
 
 
 
-Publications
-======
+## Publications
 * Articles
   * Xue Mi, Micheal Adjeisah et al., “POI-Conditioned Hybrid Latent Diffusion–GAN for Real-Time Land-Use Map Generation”, CAADRIA, 2026(accepted)
   * Xue Mi, Micheal Adjeisah et al., ”A GIS-Oriented Land Use Map Generation Agent: A Hybrid Approach Integrating Diffusion Models and GANs”, AAAI2026, Workshop
@@ -45,15 +42,14 @@ Publications
   Nanjing: Southeast University Press, 2021. ISBN: 978-7-5641-9292-1.
 
 
-Skills
-======
+## Skills
 * Languages
   * Fluent in English and Korean (independently translated sports documentaries during the Winter Olympics, achieving 3.86 million views and widespread media coverage); Native in Mandarin
 * Technical Skills
   * ArcGIS, Python, Pytorch
 
-Awards
-======
+## Awards
+
   * 2025, First Prize, Urban Planning and Design Award of Qingdao City, Shandong Province, China.
   * 2018: First Prize for "Opening the Door to Hangzhou 2035 - Hangzhou Urban Planning Concept Plan"
   * 2016: Silver Award in the Urban Design Category of the China Human Settlements Environment DesignAcademic Year Award (First Author)
@@ -61,14 +57,14 @@ Awards
   * 2014: Gold Award in the Student Category of the 4th Aijiang Award International Landscape Planning andDesign Competition (Individual)
   * 2013: Excellent Award at the Tongji University Construction Festival
   
-Leadership Experience and Activities
-======
+## Leadership Experience and Activities
+
   * 2017: "2013 Japan Architecture Newcomer Competition," Organizer
   * 2013: "2017 Urban Renewal Academic Seminar," Organizer
   * 2011-2015: Southeast University School of Architecture Student Union, Vice President of External Relations
 
-Research and Professional Activities
-======
+## Research and Professional Activities
+
   * Jun 2018 – Sep 2018: China Academy of Urban Planning and Design, Regional Department
   * Dec 2017 – Jan 2018: Shenzhen Urban Planning and Design Institute, Planning Department II
   * Jul 2017 – Sep 2017: Beijing Urban Planning and Design Institute, Detailed Planning Department
