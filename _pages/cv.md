@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience: CAUPD, Beijing
 -----
-Project Manager, Senior Urban Planner, China Academy of Urban Planning and Design, Beijing, 2022-2025
+<small>Project Manager, Senior Urban Planner, China Academy of Urban Planning and Design, Beijing, 2022-2025<small>
 
 Urban Planner, China Academy of Urban Planning and Design, Beijing, 2019-2022
 
