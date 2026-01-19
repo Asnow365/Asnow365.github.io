@@ -28,7 +28,7 @@ Field: Regional Planning, Urban Regeneration.
 Exchange Program in Regional Economic Development, Vienna University of Technology, 2016-2017
 
 #### B.S. in Urban Planning, Southeast University, 2011-2016
-GPA: 3.75/4.0 (Ranked 3rd in the Class)
+GPA: 3.75/4.0 (Ranked 3rd)
 
 Honor: Postgraduate Recommendation, Major Scholarship
 
