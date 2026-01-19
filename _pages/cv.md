@@ -14,14 +14,17 @@ redirect_from:
   * Urban Planner, China Academy of Urban Planning and Design, Beijing, 2019-2022
 
 ## Education
-    Ph.D in Computer version, NCCA, UK 2024-2028 (expected)
+
+### Ph.D in Computer version, NCCA, UK 2024-2028 (expected)
   * Field: Deep Learning
-    M.S. in Urban Planning, Southeast University, 2016-2019
+
+### M.S. in Urban Planning, Southeast University, 2016-2019
   * GPA: 3.83/4.0 
   * Field: Regional Planning, Urban Regeneration.
   * M.S. in Urban Planning, Vienna University of Technology, 2016-2017
   * Exchange Program in Regional Economic Development
-    B.S. in Urban Planning, Southeast University, 2011-2016
+
+### B.S. in Urban Planning, Southeast University, 2011-2016
   * GPA: 3.75/4.0 (Ranked 3rd in the Class)
   * Honor: Postgraduate Recommendation, Major Scholarship
   * Coursework: Urban Sociology, Urban Economics, Urban Data Analysis (SPSS/GIS), Urban andRural Planning Design and Theory, etc.
@@ -29,6 +32,7 @@ redirect_from:
 
 
 ## Publications
+
 ### Articles
   * Xue Mi, Micheal Adjeisah et al., “POI-Conditioned Hybrid Latent Diffusion–GAN for Real-Time Land-Use Map Generation”, CAADRIA, 2026(accepted)
   * Xue Mi, Micheal Adjeisah et al., ”A GIS-Oriented Land Use Map Generation Agent: A Hybrid Approach Integrating Diffusion Models and GANs”, AAAI2026, Workshop
@@ -36,18 +40,23 @@ redirect_from:
   * Mi Xue. "Empirical Study on Innovative Urban Housing Security Based on the Work-Home Balance ofDiverse Populations." Proceedings of the Chinese Urban Planning Conference. 2021.
   * Mi Xue,Li Zijing. "Primary Study on the Space and Temporal Difference of Regeneration of IndustrialSpace: A Case Study of the Inner City of Shanghai, Nanjing, and Hangzhou." Manchester International Conference. 2018.
   * Mi Xue,Jin Tanhua. "Exploration into Community Renewal Based on Multiple Composite RenewalMechanisms." Proceedings of the Chinese Urban Planning Conference. 2017.
+
 ### Books
+
   * **Industrial Heritage Regeneration.**  
   In Shijie Sun (Ed.), *Evolution and Regeneration: Urban Renewal of Nanjing Old City since the Reform and Opening-up* (in Chinese).  
   Nanjing: Southeast University Press, 2021. ISBN: 978-7-5641-9292-1.
+
   * **Regional Observation of the Yellow River Basin**
   China Academy of Urban Planning and Design Think Tank Annual Report 2025 (in Chinese).China Architecture & Building Press，2025.ISBN 978-7-112-31431-7
 
 
 
 ## Skills
+
 ### Languages
   * Fluent in English and Korean (independently translated sports documentaries during the Winter Olympics, achieving 3.86 million views and widespread media coverage); Native in Mandarin
+
 ### Technical Skills
   * ArcGIS, Python, Pytorch
 
