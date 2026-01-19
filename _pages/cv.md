@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 Work experience: CAUPD, Beijing
-
 -----
 
 Project Manager, Senior Urban Planner, China Academy of Urban Planning and Design, Beijing, 2022-2025
@@ -19,6 +18,7 @@ Urban Planner, China Academy of Urban Planning and Design, Beijing, 2019-2022
 
 Education
 -----
+
 ### Ph.D in Computer version, NCCA, UK 2024-2028 (expected)
 Field: Computer Version, 3D Generation
 
@@ -40,6 +40,7 @@ Coursework: Urban Sociology, Urban Economics, Urban Data Analysis (SPSS/GIS), Ur
 
 Publications
 -----
+
 ### Articles
 Xue Mi, Micheal Adjeisah et al., “POI-Conditioned Hybrid Latent Diffusion–GAN for Real-Time Land-Use Map Generation”, CAADRIA, 2026(accepted)
 
@@ -65,6 +66,7 @@ Mi Xue,Jin Tanhua. "Exploration into Community Renewal Based on Multiple Composi
 
 Skills
 -----
+
 ### Languages
 Fluent in English and Korean (independently translated sports documentaries during the Winter Olympics, achieving 3.86 million views and widespread media coverage); Native in Mandarin
 
@@ -73,6 +75,7 @@ ArcGIS, Python, Pytorch
 
 Awards
 -----
+
 2025, First Prize, Urban Planning and Design Award of Qingdao City, Shandong Province, China.
 
 2018: First Prize for "Opening the Door to Hangzhou 2035 - Hangzhou Urban Planning Concept Plan"
@@ -87,6 +90,7 @@ Awards
   
 Leadership Experience and Activities
 -----
+
 2017: "2013 Japan Architecture Newcomer Competition," Organizer
 
 2013: "2017 Urban Renewal Academic Seminar," Organizer
@@ -95,6 +99,7 @@ Leadership Experience and Activities
 
 Research and Professional Activities
 -----
+
 Jun 2018 – Sep 2018: China Academy of Urban Planning and Design, Regional Department
 
 Dec 2017 – Jan 2018: Shenzhen Urban Planning and Design Institute, Planning Department II
