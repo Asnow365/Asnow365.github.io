@@ -28,12 +28,6 @@ Education
   * Honor: Postgraduate Recommendation, Major Scholarship
   * Coursework: Urban Sociology, Urban Economics, Urban Data Analysis (SPSS/GIS), Urban andRural Planning Design and Theory, etc.
 
-Skills
-======
-* Languages
-  * Fluent in English and Korean (independently translated sports documentaries during the Winter Olympics, achieving 3.86 million views and widespread media coverage); Native in Mandarin
-* Technical Skills
-  * ArcGIS, Python, Pytorch
 
 
 Publications
@@ -50,6 +44,13 @@ Publications
   In Shijie Sun (Ed.), *Evolution and Regeneration: Urban Renewal of Nanjing Old City since the Reform and Opening-up* (in Chinese).  
   Nanjing: Southeast University Press, 2021. ISBN: 978-7-5641-9292-1.
 
+
+Skills
+======
+* Languages
+  * Fluent in English and Korean (independently translated sports documentaries during the Winter Olympics, achieving 3.86 million views and widespread media coverage); Native in Mandarin
+* Technical Skills
+  * ArcGIS, Python, Pytorch
 
 AWARDS
 ======
