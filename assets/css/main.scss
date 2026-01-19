@@ -46,7 +46,10 @@
    Global body text size override
    =============================== */
 
-.page__content {
-  font-size: 0.9em;
-  line-height: 1.5;
+.page__content,
+.page__content p,
+.page__content li {
+  font-size: 0.9em !important;
+  line-height: 1.5 !important;
 }
+
