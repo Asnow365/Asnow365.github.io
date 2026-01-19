@@ -12,11 +12,11 @@ redirect_from:
 Work experience: CAUPD, Beijing
 ======
 * Project Manager, Senior Urban Planner, China Academy of Urban Planning and Design, Beijing, 2022-2025
-  *Team Leadership in Urban Planning:
-  *Led an 11-member team to execute urban planning projects, achieving a top 3 national productivity rankingand delivering projects worth over 10 million RMB. Managed the entire project lifecycle across regionalstrategy, urban development, and functional positioning.
-  *Research and Analysis:
-  *Led in-depth research initiatives on a broad spectrum of topics such as urban industry development, newbusiness models, incubators, industrial planning, and regional competitiveness.
-  *Crafted research methodologies, conducted surveys and interviews, and performed advanced socio-economicdata analysis to inform strategic planning and policy-making processes through authoring strategic, industry,and thematic analysis reports.
+  * Team Leadership in Urban Planning:
+  * Led an 11-member team to execute urban planning projects, achieving a top 3 national productivity rankingand delivering projects worth over 10 million RMB. Managed the entire project lifecycle across regionalstrategy, urban development, and functional positioning.
+  * Research and Analysis:
+  * Led in-depth research initiatives on a broad spectrum of topics such as urban industry development, newbusiness models, incubators, industrial planning, and regional competitiveness.
+  * Crafted research methodologies, conducted surveys and interviews, and performed advanced socio-economicdata analysis to inform strategic planning and policy-making processes through authoring strategic, industry,and thematic analysis reports.
 * Urban Planner, China Academy of Urban Planning and Design, Beijing, 2019-2022
 
 Education
