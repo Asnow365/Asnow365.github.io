@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience: CAUPD, Beijing
+## Work experience: CAUPD, Beijing
+
 -----
 
 Project Manager, Senior Urban Planner, China Academy of Urban Planning and Design, Beijing, 2022-2025
