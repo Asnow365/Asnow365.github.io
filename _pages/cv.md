@@ -17,7 +17,8 @@ Project Manager, Senior Urban Planner, China Academy of Urban Planning and Desig
 
 Urban Planner, China Academy of Urban Planning and Design, Beijing, 2019-2022
 
-Education
+## Education
+
 -----
 
 ### Ph.D in Computer version, NCCA, UK 2024-2028 (expected)
@@ -39,7 +40,8 @@ Coursework: Urban Sociology, Urban Economics, Urban Data Analysis (SPSS/GIS), Ur
 
 
 
-Publications
+## Publications
+
 -----
 
 ### Articles
@@ -65,7 +67,8 @@ Mi Xue,Jin Tanhua. "Exploration into Community Renewal Based on Multiple Composi
 
 
 
-Skills
+## Skills
+
 -----
 
 ### Languages
@@ -74,7 +77,8 @@ Fluent in English and Korean (independently translated sports documentaries duri
 ### Technical Skills
 ArcGIS, Python, Pytorch
 
-Awards
+## Awards
+
 -----
 
 2025, First Prize, Urban Planning and Design Award of Qingdao City, Shandong Province, China.
@@ -89,7 +93,8 @@ Awards
 
 2013: Excellent Award at the Tongji University Construction Festival
   
-Leadership Experience and Activities
+## Leadership Experience and Activities
+
 -----
 
 2017: "2013 Japan Architecture Newcomer Competition," Organizer
@@ -98,7 +103,8 @@ Leadership Experience and Activities
 
 2011-2015: Southeast University School of Architecture Student Union, Vice President of External Relations
 
-Research and Professional Activities
+## Research and Professional Activities
+
 -----
 
 Jun 2018 – Sep 2018: China Academy of Urban Planning and Design, Regional Department
