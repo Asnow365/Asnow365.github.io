@@ -21,7 +21,7 @@ Urban Planner, China Academy of Urban Planning and Design, Beijing, 2019-2022
 
 -----
 
-### Ph.D in Computer version, NCCA, UK 2024-2028 (expected)
+### Ph.D in Computer vision, NCCA, UK 2024-2028 (expected)
 Field: Computer Version, 3D Generation
 
 ### M.S. in Urban Planning, Southeast University, 2016-2019
