@@ -38,14 +38,12 @@ Honor: Postgraduate Recommendation, Major Scholarship
 
 Coursework: Urban Sociology, Urban Economics, Urban Data Analysis (SPSS/GIS), Urban andRural Planning Design and Theory, etc.
 
-
-
 ## Publications
 
 -----
 
 ### Articles
-Xue Mi, Micheal Adjeisah et al., “POI-Conditioned Hybrid Latent Diffusion–GAN for Real-Time Land-Use Map Generation”, CAADRIA, 2026(accepted)
+Xue Mi, Micheal Adjeisah et al., “A GIS-Integrated Land Use Map Generation Agent: Hybrid Pipeline with GAN-Augmented Diffusion”, CAADRIA, 2026(accepted)
 
 Xue Mi, Micheal Adjeisah et al., ”A GIS-Oriented Land Use Map Generation Agent: A Hybrid Approach Integrating Diffusion Models and GANs”, AAAI2026, Workshop
 
