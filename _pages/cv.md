@@ -70,6 +70,13 @@ Mi Xue,Jin Tanhua. "Exploration into Community Renewal Based on Multiple Composi
   * **Regional Observation of the Yellow River Basin**
   China Academy of Urban Planning and Design Think Tank Annual Report 2025 (in Chinese).China Architecture & Building Press，2025.ISBN 978-7-112-31431-7
 
+## Platform operation
+
+-----
+
+AI for Giza World,     Collaborating with the Harvard Giza World Heritage team on AI interactive heritage platform, the project is ongoing, as the project initiator
+
+Urban Development Assessment and Forecasting Platform for 297 Chinese Cities，        An interactive platform for assessing, forecasting, and visualizing urban growth and decline across 297 Chinese cities. Developed from a CAUPD research project. Completed and pending public launch.
 
 
 ## Skills
