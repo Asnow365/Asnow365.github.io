@@ -74,10 +74,10 @@ Mi Xue,Jin Tanhua. "Exploration into Community Renewal Based on Multiple Composi
 
 -----
 
-AI for Giza World,   
+  * **AI for Giza World.** 
 Started from 2026-05,  Collaborating with the Harvard Giza World Heritage team on AI interactive heritage platform, the project is ongoing, as the project initiator
 
-Urban Development Assessment and Forecasting Platform for 297 Chinese Cities， 
+  * **Urban Development Assessment and Forecasting Platform for 297 Chinese Cities.** 
 Started from 2026-06,   An interactive platform for assessing, forecasting, and visualizing urban growth and decline across 297 Chinese cities. Developed from a CAUPD research project. Completed and pending public launch.
 
 
