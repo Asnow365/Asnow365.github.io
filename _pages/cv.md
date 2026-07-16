@@ -43,7 +43,14 @@ Coursework: Urban Sociology, Urban Economics, Urban Data Analysis (SPSS/GIS), Ur
 -----
 
 ### Articles
-Xue Mi, Micheal Adjeisah et al., “A GIS-Integrated Land Use Map Generation Agent: Hybrid Pipeline with GAN-Augmented Diffusion”, CAADRIA, 2026(accepted)
+
+Xue Mi，Jian Chang et al., “HeritageCraft:A Multi-Agent Continual Refinement Framework for Interactive 3D Generation of Historical Architectural Heritage” , AAAI 2027 (Submitted)
+
+Xue Mi，Jian Chang et al., “From Geometry to Typology: Counterfactual Editability for Ancient Architecture 3D Reconstruction and Generation” , NeurIPS 2026 (Under review)
+
+Xue Mi，Jian Chang et al., “A causal graph neural network framework for identifying urban land evolution mechanisms across Chinese cities” ,npj Urban Sustainability (Under Peer review)
+
+Xue Mi, Micheal Adjeisah et al., “A GIS-Integrated Land Use Map Generation Agent: Hybrid Pipeline with GAN-Augmented Diffusion”, CAADRIA, 2026 (Published)
 
 Xue Mi, Micheal Adjeisah et al., ”A GIS-Oriented Land Use Map Generation Agent: A Hybrid Approach Integrating Diffusion Models and GANs”, AAAI2026, Workshop
 
